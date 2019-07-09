@@ -1,0 +1,35 @@
+#title{
+font-family: 'Mountains of Christmas', cursive;
+
+}
+
+.navbar
+<style>
+ ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 300px;
+    font-weight: bold;
+    color: black;
+    background-color:  #ffffb3;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover, a:active {
+    background-color: #3399ff ;
+}
+</style>
